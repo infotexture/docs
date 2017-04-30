@@ -4,9 +4,17 @@
 
 <task id="plugin-newtranstype" xml:lang="en-US">
   <title>Adding a new transformation type</title>
-  <shortdesc>Plug-ins can add an entirely new transformation type. The new transformation type can be very simple,
-    such as an XHTML build that creates an additional control file; it also can be very complex, adding any number of
-    new processing steps.</shortdesc>
+  <shortdesc>Plug-ins can add an entirely new transformation type. The new transformation type can be very simple, such
+    as an XHTML build that creates an additional control file; it also can be very complex, adding any number of new
+    processing steps.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>plugins<indexterm>new transformation type</indexterm></indexterm>
+        <indexterm>ant<indexterm>new transformation type</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <context>
       <p>You can use the <codeph>dita.conductor.transtype.check</codeph> and <codeph>dita.transtype.print</codeph>
@@ -54,8 +62,8 @@
   &lt;feature extension="dita.transtype.print" value="newtext"/>
   &lt;feature extension="dita.conductor.target.relative" file="build-newtext.xml"/>
 &lt;/plugin></codeblock>
-      <p>While the <filepath>org.dita.html5</filepath> plug-in was separated from <codeph>common-html</codeph> in version 2.4,
-          the following example shows how earlier versions of that plug-in used the
+      <p>While the <filepath>org.dita.html5</filepath> plug-in was separated from <codeph>common-html</codeph> in
+        version 2.4, the following example shows how earlier versions of that plug-in used the
           <xmlelement>transtype</xmlelement> element to extend the common HTML transformation with a new
           <option>html5</option> transformation type and define a new <parmname>nav-toc</parmname> parameter with three
         possible values:</p>

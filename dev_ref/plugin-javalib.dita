@@ -6,6 +6,16 @@
   <title>Adding a Java library to the DITA-OT <parmname>classpath</parmname> parameter</title>
   <shortdesc>You can use the <codeph>dita.conductor.lib.import</codeph> extension point to add an additional Java
     library to the DITA-OT <parmname>classpath</parmname> parameter.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>java library<indexterm>add</indexterm></indexterm>
+        <indexterm>library java<indexterm>add</indexterm></indexterm>
+        <indexterm>add<indexterm>library java</indexterm></indexterm>
+        <indexterm>plugins<indexterm>java library</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
@@ -15,7 +25,8 @@
         <cmd>Create a <filepath>plugin.xml</filepath> file that contains the following code:</cmd>
         <info><codeblock>&lt;plugin id="<varname>plugin-id</varname>">
   &lt;feature extension="dita.conductor.lib.import" file="<varname>file</varname>"/>
-&lt;/plugin></codeblock>where:<ul>
+&lt;/plugin></codeblock>where:
+          <ul>
             <li><varname>plugin-id</varname> is the plug-in identifier, for example, com.example.addjar.</li>
             <li><varname>file</varname> is the name of the JAR file, for example,
               <filepath>myJavaLibrary.jar</filepath>. </li>

@@ -7,6 +7,14 @@
   <shortdesc>Use the Ant conductor extension point (<codeph>dita.conductor.target.relative</codeph>) to make new targets
     available to the Ant processing pipeline. This can be done as part of creating a new transformation, extending
     pre-processing, or simply to make new Ant targets available to other plug-ins.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>plugins<indexterm>ant<indexterm>add build process</indexterm></indexterm></indexterm>
+        <indexterm>ant<indexterm>add build process</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
@@ -23,7 +31,8 @@
         <cmd>Create the <filepath>plugin.xml</filepath> file:</cmd>
         <stepxmp><codeblock>&lt;plugin id="<varname>plugin-id</varname>">
   &lt;feature extension="dita.conductor.target.relative" file="<varname>wrapper-file</varname>"/>
-&lt;/plugin></codeblock>where:<ul>
+&lt;/plugin></codeblock>where:
+          <ul>
             <li><varname>plugin-id</varname> is the plug-in identifier, for example,
               <codeph>com.example.ant</codeph>.</li>
             <li><varname>wrapper-file</varname> is the wrapper file that imports the Ant project file.</li>

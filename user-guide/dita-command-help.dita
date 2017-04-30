@@ -6,6 +6,18 @@
   <title>Accessing help for the dita command</title>
   <shortdesc>You can access a list of supported parameters for the <cmdname>dita</cmdname> command by passing the
       <parmname>--help</parmname> option on the command line.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>install<indexterm>macOS</indexterm></indexterm>
+        <indexterm>install<indexterm>windows</indexterm></indexterm>
+        <indexterm>install<indexterm>linux</indexterm></indexterm>
+        <indexterm>command<indexterm>help<indexterm>macOS</indexterm></indexterm></indexterm>
+        <indexterm>command<indexterm>help<indexterm>windows</indexterm></indexterm></indexterm>
+        <indexterm>command<indexterm>help<indexterm>linux</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
