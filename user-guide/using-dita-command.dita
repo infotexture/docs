@@ -6,6 +6,14 @@
   <title>Building output using the <cmdname>dita</cmdname> command</title>
   <shortdesc>You can generate output using the DITA Open Toolkit <cmdname>dita</cmdname> command-line tool. Build
     parameters can be specified on the command line or with <filepath>.properties</filepath> files.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>first steps<indexterm>DITA command-line tool for building</indexterm></indexterm>
+        <indexterm> DITA command-line<indexterm>generate output</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <context audience="novice">The DITA-OT client is a command-line tool with no graphical user interface.</context>
     <steps>

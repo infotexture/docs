@@ -4,6 +4,14 @@
   <title>Benefits of plug-ins</title>
   <shortdesc>Plug-ins permit users to extend the toolkit in a way that is consistent, easy-to-share, and possible to
     preserve through toolkit upgrades.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>plugins<indexterm>benefits of plugins</indexterm></indexterm>
+        <indexterm>extensions<indexterm>plugins</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <p>The DITA-OT plug-in mechanism provides the following benefits:</p>
     <ul>

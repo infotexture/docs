@@ -5,4 +5,12 @@
 <concept id="preprocess-branch-filter" xml:lang="en-US">
   <title>Branch filtering (branch-filter)</title>
   <shortdesc>The <codeph>branch-filter</codeph> step filters topics using DITAVAL files defined in the map.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>branch filter</indexterm>
+        <indexterm>DITAVAL files<indexterm>filtering</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </concept>
