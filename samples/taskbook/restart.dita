@@ -10,8 +10,7 @@
 <title>Restart your system</title>
 <shortdesc>This is standard procedure after installing any new software.</shortdesc>
 <prolog><metadata>
-<keywords><indexterm>Restarting</indexterm><indexterm>web server</indexterm>
-<indexterm>database</indexterm></keywords>
+<keywords></keywords>
 </metadata></prolog>
 <taskbody>
 <steps>

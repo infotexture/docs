@@ -11,10 +11,7 @@
     to override the default values of various DITA-OT parameters.</shortdesc>
   <prolog>
     <metadata>
-      <keywords>
-        <indexterm>files<indexterm>local.properties</indexterm></indexterm>
-        <indexterm>local.properties file</indexterm>
-      </keywords>
+      <keywords></keywords>
     </metadata>
   </prolog>
   <refbody>

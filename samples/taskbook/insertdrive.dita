@@ -11,7 +11,7 @@
 <shortdesc>The drive needs to be attached to power cables and other cables
 inside the computer.</shortdesc>
 <prolog><metadata>
-<keywords><indexterm>hard drive</indexterm></keywords>
+<keywords></keywords>
 </metadata></prolog>
 <taskbody>
 <prereq><note type="caution">You must be grounded before doing this.</note></prereq>
