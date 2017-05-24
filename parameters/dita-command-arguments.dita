@@ -13,7 +13,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>references<indexterm>paramenter<indexterm>arguments</indexterm></indexterm></indexterm>
+        <indexterm>parameter<indexterm>command-argument</indexterm></indexterm>
+        <indexterm>references<indexterm>parameter<indexterm>arguments-options</indexterm></indexterm></indexterm>
       </keywords>
     </metadata>
   </prolog>

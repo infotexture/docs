@@ -10,7 +10,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>tools<indexterm>ant</indexterm></indexterm>
+        <indexterm>tools<indexterm>java<indexterm>ant</indexterm></indexterm></indexterm>
+        <indexterm>toolkit<indexterm>java<indexterm>ant</indexterm></indexterm></indexterm>
+        <indexterm>toolkit<indexterm>ant</indexterm></indexterm>
+        <indexterm>publish<indexterm>ant</indexterm></indexterm>
       </keywords>
     </metadata>
   </prolog>
