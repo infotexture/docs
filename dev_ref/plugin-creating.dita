@@ -3,4 +3,14 @@
 <task id="plugins-creating">
     <title>Creating plug-ins</title>
     <shortdesc>You can use DITA-OT plug-ins to extend the DITA Open Toolkit.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>development<indexterm>references<indexterm>plugins<indexterm>creating
+                            plug-ins</indexterm></indexterm></indexterm></indexterm>
+                <indexterm>development<indexterm>plug-ins</indexterm></indexterm>
+                <indexterm>development<indexterm>the DITA Open Toolkit</indexterm></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
 </task>

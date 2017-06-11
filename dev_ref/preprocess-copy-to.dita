@@ -6,4 +6,14 @@
   <title>Copy topics (copy-to)</title>
   <shortdesc>The <codeph>copy-to</codeph> step makes a copy of original topic resources to new resources defined by the
       <xmlatt>copy-to</xmlatt> attribute.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>development<indexterm>references<indexterm>copy<indexterm>copy
+          to</indexterm></indexterm></indexterm></indexterm>
+        <indexterm> development<indexterm>preprocess<indexterm>copy actions</indexterm></indexterm></indexterm>
+        <indexterm> development<indexterm>copying a resource into a new resource</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </concept>
