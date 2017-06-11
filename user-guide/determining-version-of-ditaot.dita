@@ -5,6 +5,13 @@
 <task id="determining-version-of-dita-ot">
   <title>Checking the DITA-OT version</title>
   <shortdesc>You can determine the version of the DITA Open Toolkit from a command prompt.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>define<indexterm>command prompt<indexterm>DITA open toolkit</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
