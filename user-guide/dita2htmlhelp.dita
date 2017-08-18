@@ -6,6 +6,14 @@
   <title>DITA to HTML Help (CHM)</title>
   <shortdesc>The <option>htmlhelp</option> transformation generates HTML output, CSS files, and the control files that
     are needed to produce a Microsoft HTML Help file.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>user guide<indexterm>output formats<indexterm>css</indexterm></indexterm></indexterm>
+        <indexterm>user guide<indexterm>output formats<indexterm>html</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <p>In addition to the HTML output and CSS files, this transformation returns the following files, where
         <varname>mapname</varname> is the name of the master DITA map. <simpletable frame="all" relcolwidth="2.0* 3.0*">
