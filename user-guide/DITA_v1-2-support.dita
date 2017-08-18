@@ -9,6 +9,13 @@
     up with the latest drafts. The specification itself was approved at approximately the same time as DITA-OT 1.5.2,
     which contained the final versions of the DTD and Schemas. DITA-OT 1.6 updated the DITA 1.2 XSDs to address minor
     errata in the standard; the DTDs remain up to date.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>user guide<indexterm>support<indexterm>v1.2</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <p>Earlier versions of the DITA Open Toolkit contained a subset of the specification material, including
       descriptions of each DITA element. This material was shipped in source, CHM and PDF format. This was possible in

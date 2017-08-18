@@ -7,4 +7,12 @@
   <shortdesc>You can create custom DITA-OT plug-ins that build on the default DITA to PDF transformation. Plug-ins can
     customize covers and page layouts, modify formatting, override logic of the default PDF plug-in, and much
     more.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>pdf<indexterm>output</indexterm></indexterm>
+        <indexterm>pdf<indexterm>plug-in</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </task>

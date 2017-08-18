@@ -6,4 +6,11 @@
   <title>DITA and DITA-OT resources</title>
   <shortdesc>In addition to the DITA Open Toolkit documentation, there are other resources about DITA and the DITA-OT
     that you might find helpful.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>user guide<indexterm>ressources</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </reference>
