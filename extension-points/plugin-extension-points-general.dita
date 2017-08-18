@@ -7,6 +7,16 @@
   <shortdesc>These extension points enable you to extend the DITA-OT. You can add Ant targets or imports; add a Java
     library to the <parmname>classpath</parmname> parameter; add a new transformation type; extend a catalog file; add
     new diagnostic messages, and more.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>extension<indexterm>Java library</indexterm></indexterm>
+        <indexterm>extension<indexterm>Ant</indexterm></indexterm>
+        <indexterm>extension<indexterm>catalog file</indexterm></indexterm>
+        <indexterm>extension<indexterm>PDF plugin</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <dl>

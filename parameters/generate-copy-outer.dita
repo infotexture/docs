@@ -5,6 +5,18 @@
 <concept id="concept_rcv_xbp_xg">
   <title><parmname>generate.copy.outer</parmname> parameter</title>
   <shortdesc>Elaboration on how the <parmname>generate.copy.outer</parmname> parameter functions.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>parameter<indexterm>html<indexterm>parameter function</indexterm></indexterm></indexterm>
+        <indexterm>parameter function</indexterm>
+        <indexterm>parameter<indexterm>html<indexterm>broken links</indexterm></indexterm></indexterm>
+        <indexterm>broken links</indexterm>
+        <indexterm>parameter<indexterm>html<indexterm>output directory</indexterm></indexterm></indexterm>
+        <indexterm>output directory</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <title>Background</title>
