@@ -11,6 +11,16 @@
     different processors. DITA-OT supports implementation-specific features by applying one or more of the permissible
     processing approaches.</shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>features<indexterm>choice through implementation</indexterm></indexterm>
+        <indexterm>implementation<indexterm>supported by DITA</indexterm></indexterm>
+        <indexterm>implementation<indexterm>error-recovery</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section id="section_jla_oqn_qc">
       <title>Chunking</title>
