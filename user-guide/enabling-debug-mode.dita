@@ -7,6 +7,17 @@
   <shortdesc>When the debug mode is enabled, additional diagnostic information is written to the log file. This
     information, which includes environment variables and stack trace data, can help you determine the root cause of a
     problem.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>User Guide<indexterm>Troubleshooting<indexterm>Prerequisite software User Guide<indexterm>Troubleshooting<indexterm>Prerequisite software</indexterm></indexterm></indexterm></indexterm></indexterm>
+        <indexterm>Software required for core DITA-OT processing</indexterm>
+        <indexterm>User Guide<indexterm>Troubleshooting<indexterm>Prerequisite
+          software</indexterm></indexterm></indexterm>
+        <indexterm>Software required for specific transformations</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
@@ -18,9 +29,7 @@
           </chhead>
           <chrow>
             <choption><cmdname>dita</cmdname> command</choption>
-            <chdesc><parmname>--debug</parmname>,
-              <parmname>-debug</parmname>, or
-              <parmname>-d</parmname></chdesc>
+            <chdesc><parmname>--debug</parmname>, <parmname>-debug</parmname>, or <parmname>-d</parmname></chdesc>
           </chrow>
           <chrow>
             <choption>Ant</choption>
