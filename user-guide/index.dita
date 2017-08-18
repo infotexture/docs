@@ -11,4 +11,11 @@
     <ph id="ph_docs-ug-desc">The <ph><cite>User Guide</cite></ph> is designed to provide basic information about using
       the DITA-OT. It is geared for an audience that needs information about running the toolkit, generating output, and
       troubleshooting builds.</ph></shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>open toolkit<indexterm>user guide</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </concept>

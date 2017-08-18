@@ -12,4 +12,14 @@
       and quickly. It includes documentation for <cmdname>dita</cmdname> command arguments and options, DITA-OT
       parameters, and configuration properties.</ph>
   </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>parameter<indexterm>documentation<indexterm>command arguments</indexterm></indexterm></indexterm>
+        <indexterm>parameter<indexterm>documentation<indexterm>options</indexterm></indexterm></indexterm>
+        <indexterm>parameter<indexterm>open toolkit</indexterm></indexterm>
+        <indexterm>open toolkit<indexterm>parameter</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </reference>

@@ -11,7 +11,13 @@
     <p>Issue numbers correspond to the tracking number in the <ph>
         <xref keyref="dita-ot-issues">GitHub issues tracker</xref></ph>.</p>
   </abstract>
-
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>open toolkit<indexterm>release notes<indexterm>2.4.3</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <reference id="v246">
     <title>Maintenance Release <keyword keyref="maintenance-version"/></title>
     <refbody>

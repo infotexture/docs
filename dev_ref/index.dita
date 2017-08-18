@@ -12,4 +12,14 @@
       the DITA-OT. It is geared to an audience that needs information about the DITA-OT architecture, extending the
       DITA-OT, and creating DITA-OT plug-ins.</ph>
   </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>open toolkit<indexterm>developer reference</indexterm></indexterm>
+        <indexterm>developer reference<indexterm>open toolkit<indexterm>plug-ins</indexterm></indexterm></indexterm>
+        <indexterm>developer reference<indexterm>open toolkit<indexterm>architecture</indexterm></indexterm></indexterm>
+        <indexterm>open toolkit<indexterm>plug-ins<indexterm>developer reference</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </concept>
