@@ -6,6 +6,21 @@
   <title>Globalization support offered by the DITA-OT</title>
   <shortdesc>The DITA Open Toolkit offers globalization support in the following areas: Generated text, index sorting,
     and bi-directional text.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>globalization support<indexterm>text<indexterm>generated</indexterm></indexterm></indexterm>
+        <indexterm>globalization support<indexterm>index<indexterm>sorting</indexterm></indexterm></indexterm>
+        <indexterm>globalization support<indexterm>text<indexterm>bi-directional</indexterm></indexterm></indexterm>
+        <indexterm>support<indexterm>text<indexterm>generated</indexterm></indexterm></indexterm>
+        <indexterm>support<indexterm>index<indexterm>sorting</indexterm></indexterm></indexterm>
+        <indexterm>support<indexterm>text<indexterm>bi-directional</indexterm></indexterm></indexterm>
+        <indexterm>bi-directional text</indexterm>
+        <indexterm>index sorting</indexterm>
+        <indexterm>generated text</indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <p>
       <dl>

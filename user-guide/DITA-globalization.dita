@@ -8,4 +8,16 @@
     Open Toolkit passes content through to the output format unchanged. The DITA-OT uses the values for the
       <xmlatt>xml:lang</xmlatt> and <xmlatt>dir</xmlatt> attributes that are set in the
     source content to provide globalization support.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>content<indexterm>language</indexterm></indexterm>
+        <indexterm>supported language</indexterm>
+        <indexterm>content<indexterm>language<indexterm>xml:lang</indexterm></indexterm></indexterm>
+        <indexterm>content<indexterm>language<indexterm>dir attributes</indexterm></indexterm></indexterm>
+        <indexterm>globalizing content</indexterm>
+        <indexterm>output format<indexterm>language</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </task>

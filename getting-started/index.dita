@@ -11,4 +11,16 @@
     <ph id="ph_docs-gs-desc"><ph><cite>Getting Started </cite></ph> provides a guided exploration of the DITA Open
       Toolkit. It is geared for an audience that has little or no knowledge of build scripts or DITA-OT parameters. It
       walks the novice user through installing the toolkit and building output.</ph></shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>getting started<indexterm>install toolkit</indexterm></indexterm>
+        <indexterm>getting started<indexterm>build output</indexterm></indexterm>
+        <indexterm>getting started<indexterm>output</indexterm></indexterm>
+        <indexterm>start<indexterm>install</indexterm></indexterm>
+        <indexterm>start<indexterm>build output</indexterm></indexterm>
+        <indexterm>start<indexterm>output</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </task>
