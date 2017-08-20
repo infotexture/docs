@@ -6,6 +6,14 @@
   <title>Prerequisite software</title>
   <shortdesc>The prerequisite software that the DITA-OT requires depends on the types of transformations that you want
     to use.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>software<indexterm>core-processing</indexterm></indexterm>
+        <indexterm>software<indexterm>specific-transformation</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <title>Software required for core DITA-OT processing</title>
