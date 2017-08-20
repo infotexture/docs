@@ -10,6 +10,15 @@
     properties, targets, templates and modes. The PDF2 transformation no longer supports the beta version of DITA from
     IBM, the "bkinfo" demo plug-in, or <filepath>layout-masters.xml</filepath> configuration.</shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>migrating-customizations<indexterm>to-1.-6</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>1.6</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <p>Support for the old DITAVAL format (used before OASIS added DITAVAL to the standard in 2007) has been

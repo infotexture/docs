@@ -11,6 +11,15 @@
     HTML TOC processing. Several stylesheets were moved to plug-in specific folders and deprecated properties and XSLT
     variables were removed. </shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>migrating-customizations<indexterm>to-1.-7</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>1.7</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <p>A new job status file <filepath>.job.xml</filepath> has been introduced and replaces

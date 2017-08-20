@@ -11,6 +11,15 @@
     layout and uses new font family definitions. Support for several new languages was added for PDF and XHTML
     output.</shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>migrating-customizations<indexterm>to-1.-5.-4.</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>1.5.4</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section id="section_vc5_gld_g2">
       <title>Configuration properties file changes</title>
