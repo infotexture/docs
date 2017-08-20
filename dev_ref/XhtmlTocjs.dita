@@ -8,6 +8,18 @@
     distributed outside of the toolkit, but it now ships bundled in the default packages. This
     HTML5-based output type creates a JavaScript-based frameset with TOC entries that expand and
     collapse.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer reference<indexterm>dita-ot
+                architecture<indexterm>html-based processing modules<indexterm>tocjs
+              processing</indexterm></indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer reference<indexterm>dita-ot
+                architecture<indexterm>html-based processing
+              modules<indexterm>java-frameset</indexterm></indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section><p>The following Ant targets control most of the TocJS processing:<dl>
           <dlentry>

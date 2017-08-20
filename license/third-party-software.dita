@@ -6,6 +6,15 @@
   <title>Third-party software</title>
   <shortdesc>DITA Open Toolkit uses third-party software components to provide certain features in the core toolkit and
     bundled plug-ins.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>license<indexterm>third-party-software</indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>license<indexterm>third-party-software<indexterm>core-processes</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>license<indexterm>third-party-software<indexterm>pdfs</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <title>DITA-OT <keyword keyref="release"/></title>

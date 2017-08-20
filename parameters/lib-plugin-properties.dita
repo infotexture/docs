@@ -11,7 +11,10 @@
     the plug-in installation process.</shortdesc>
   <prolog>
     <metadata>
-      <keywords></keywords>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>parameter-reference<indexterm>configuration-properties<indexterm>plugin-properties</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>parameter-reference<indexterm>configuration-properties<indexterm>plugins</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
     </metadata>
   </prolog>
   <refbody>

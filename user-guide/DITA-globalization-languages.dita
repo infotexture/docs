@@ -5,6 +5,14 @@
 <reference id="dita-globalization-languages" xml:lang="en-US">
   <title>Supported languages</title>
   <shortdesc>The following languages are supported for all PDF, XHTML, and HTML5-based transformation types.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>user-guide<indexterm>globalizing-dita-content<indexterm>supported-languages</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>user-guide<indexterm>globalizing-dita-content<indexterm>languages</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <refsyn>
       <note>While language codes listed below use the conventional capitalization style of "aa-BB" and "aa-Script-BB",

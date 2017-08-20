@@ -11,7 +11,10 @@
     some properties that control PDF processing.</shortdesc>
   <prolog>
     <metadata>
-      <keywords></keywords>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>parameter-reference<indexterm>configuration-properties<indexterm>configuration-properties</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>parameter-reference<indexterm>configuration-porperties<indexterm>configurations</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
     </metadata>
   </prolog>
   <refbody>
