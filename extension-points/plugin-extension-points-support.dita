@@ -6,6 +6,15 @@
   <title>Version and support information</title>
   <shortdesc>You can use these extension points to define version and support information for a plug-in. Currently, the
     DITA-OT does not do anything with this information, but it might do so in the future.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extension-points<indexterm>version-and-support-information</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extension-points<indexterm>version-information</indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extension-points<indexterm>support-information</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <dl>

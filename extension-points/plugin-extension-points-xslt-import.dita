@@ -8,6 +8,15 @@
     transformation types. The value of the <xmlatt>file</xmlatt> attribute in the <xmlelement>feature</xmlelement>
     element specifies a relative path to an XSL file in the current plug-in. The plug-in installer adds a XSL import
     statement to the default DITA-OT code, so that the XSL override becomes part of the normal build.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extension-points<indexterm>xslt-import-extension-points<indexterm>override-xslt-processing</indexterm></indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extension-points<indexterm>xslt-import-extension-points<indexterm>xsl-import-statement</indexterm></indexterm></indexterm></indexterm></indexterm>
+        <indexterm>dita-open-toolkit-2.4<indexterm>developer-reference<indexterm>extenstion-points<indexterm>xslt-import-extension-points<indexterm>pre-processing</indexterm></indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <refbody>
     <section>
       <title>Pre-processing</title>
@@ -110,28 +119,28 @@
         <dlentry>
           <dt><parmname>dita.xsl.troff-ast</parmname></dt>
           <dd conaction="pushreplace"
-            conref="extension-points-in-org.dita.troff.dita#org.dita.troff-ext/dita.xsl.troff-ast.desc"
-            >Overrides the intermediate block-and-phrase format that is generated as input to troff processing.</dd>
+            conref="extension-points-in-org.dita.troff.dita#org.dita.troff-ext/dita.xsl.troff-ast.desc">Overrides the
+            intermediate block-and-phrase format that is generated as input to troff processing.</dd>
         </dlentry>
         <dlentry>
           <dt><parmname>dita.xsl.troff</parmname></dt>
           <dd conaction="pushreplace"
-            conref="extension-points-in-org.dita.troff.dita#org.dita.troff-ext/dita.xsl.troff.desc">Overrides
-            the XSL that converts block-and-phrase intermediate markup into troff.</dd>
+            conref="extension-points-in-org.dita.troff.dita#org.dita.troff-ext/dita.xsl.troff.desc">Overrides the XSL
+            that converts block-and-phrase intermediate markup into troff.</dd>
         </dlentry>
         <dlentry>
           <dt><parmname>dita.xsl.xhtml</parmname></dt>
           <dd conaction="pushreplace"
-            conref="extension-points-in-org.dita.xhtml.dita#org.dita.xhtml-ext/dita.xsl.xhtml.desc">Overrides
-            the default HTML or XHTML transformation, including HTML Help and Eclipse Help. The referenced file is
+            conref="extension-points-in-org.dita.xhtml.dita#org.dita.xhtml-ext/dita.xsl.xhtml.desc">Overrides the
+            default HTML or XHTML transformation, including HTML Help and Eclipse Help. The referenced file is
             integrated directly into the XSLT step that generates XHTML.</dd>
         </dlentry>
         <dlentry>
           <dt><parmname>dita.xsl.xslfo</parmname></dt>
           <dd conaction="pushreplace"
-            conref="extension-points-in-org.dita.pdf2.dita#org.dita.pdf2-ext/dita.xsl.xslfo.desc">Overrides the
-            default PDF transformation. The referenced XSL file is integrated directly into the XSLT step that generates
-            the XSL-FO.</dd>
+            conref="extension-points-in-org.dita.pdf2.dita#org.dita.pdf2-ext/dita.xsl.xslfo.desc">Overrides the default
+            PDF transformation. The referenced XSL file is integrated directly into the XSLT step that generates the
+            XSL-FO.</dd>
         </dlentry>
       </dl>
     </section>
