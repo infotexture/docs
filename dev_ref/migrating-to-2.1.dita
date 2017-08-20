@@ -10,6 +10,21 @@
     should be replaced with the <codeph>getVariable</codeph> template. Various <codeph>dita.<b>out.</b>map.*</codeph>
     targets have been deprecated in favor of updated <codeph>dita.map.*</codeph> equivalents.</shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>Developer<indexterm>Migrating<indexterm>2.1</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1</indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1<indexterm>targets</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1<indexterm>preprocessing</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1<indexterm>Pdf</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1<indexterm>Output</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.1<indexterm>XHTML</indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>2.1</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <note>This topic provides a summary of changes in DITA-OT 2.1 that may require modifications to custom stylesheets

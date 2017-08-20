@@ -14,6 +14,19 @@
     </draft-comment>
   </shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>Developer<indexterm>Migrating<indexterm>2.0</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.0</indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.0<indexterm>Transformations</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.0<indexterm>HTML5</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.0<indexterm>Transformations</indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>2.0</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <note>This topic provides a summary of changes in DITA-OT 2.0 that may require modifications to custom stylesheets

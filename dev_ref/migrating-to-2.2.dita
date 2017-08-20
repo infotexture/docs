@@ -11,6 +11,18 @@
       There are likely other changes that should be noted here. </draft-comment>
   </shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>Developer<indexterm>Migrating<indexterm>2.2</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.2</indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.2<indexterm>Pdf</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.2<indexterm>HTML5 </indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>2.2</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <note>This topic provides a summary of changes in DITA-OT 2.2 that may require modifications to custom stylesheets

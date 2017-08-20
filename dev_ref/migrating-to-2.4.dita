@@ -9,6 +9,18 @@
   <shortdesc>In DITA-OT 2.4, the <option>HTML5</option> transformation was refactored as an independent plug-in that no
     longer depends on the <option>XHTML</option> plug-in. </shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>Migrating<indexterm>2.4</indexterm></indexterm>
+        <indexterm>Developer<indexterm>Migrating<indexterm>2.4</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.4<indexterm>legacy plug-ins removed</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>2.4<indexterm>HTML5</indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>2.4</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <note>This topic provides a summary of changes in DITA-OT 2.4 that may require modifications to custom stylesheets

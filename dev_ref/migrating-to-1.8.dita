@@ -10,6 +10,21 @@
     properties, XSLT stylesheets, parameters and modes were removed from the XHTML, PDF and ODT
     transformations.</shortdesc>
 
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>developer<indexterm>migrating<indexterm>1.8</indexterm></indexterm></indexterm>
+        <indexterm>migrating<indexterm>1.8</indexterm></indexterm>
+        <indexterm>Migrating<indexterm>1.8<indexterm>Preprocessing</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>1.8<indexterm>XHTML</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>1.8<indexterm>Pdf</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>1.8<indexterm>LegacyPdf</indexterm></indexterm></indexterm>
+        <indexterm>Migrating<indexterm>1.8<indexterm>ODT</indexterm></indexterm></indexterm>
+        <indexterm>developer<indexterm>migrating<indexterm>1.8</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+
   <refbody>
     <section>
       <p>Stylesheets for the following transformation types have moved to plug-in specific folders:</p>
