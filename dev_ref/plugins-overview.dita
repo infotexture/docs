@@ -6,6 +6,16 @@
   <shortdesc>Plug-ins enable users to extend the functionality of the DITA-OT. This might entail adding support for
     specialized document types, integrating processing overrides, or defining new output
     transformations.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>creating plug ins<indexterm>benefits</indexterm></indexterm>
+        <indexterm>plug ins<indexterm>descriptor files</indexterm></indexterm>
+        <indexterm>plug ins<indexterm>Plug-in dependencies</indexterm></indexterm>
+        <indexterm>developer<indexterm>plug-ins<indexterm>creating</indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <conbody>
     <section>
       <p>A plug-in consists of a directory, typically stored within the

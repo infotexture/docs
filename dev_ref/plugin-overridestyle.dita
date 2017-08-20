@@ -6,6 +6,15 @@
   <title>Overriding an XSLT-processing step</title>
   <shortdesc>You can override specific XSLT-processing steps in both the pre-processing pipeline and certain DITA-OT
     transformations.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>plug ins<indexterm>XSLT-processing</indexterm></indexterm>
+        <indexterm>Overriding XHTML processing<indexterm>plugin-id</indexterm></indexterm>
+        <indexterm>developer<indexterm>plug-ins<indexterm>processing<indexterm>xslt</indexterm></indexterm></indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>
