@@ -7,6 +7,13 @@
   <shortdesc>The DITA-OT ships with Ant scripts that enable you to rebuild the toolkit documentation. This is especially
     helpful if your environment contains plug-ins that add new extension points, messages, or parameters to the
     toolkit.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>documentation<indexterm>rebuilding</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
   <taskbody>
     <steps>
       <step>

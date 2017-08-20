@@ -6,4 +6,11 @@
   <title>Publishing DITA content from Ant</title>
   <shortdesc>You can use Ant to invoke the DITA Open Toolkit and generate output. You can use the complete set of
     parameters that are supported by the toolkit.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <indexterm>publishing<indexterm>dita-content</indexterm><indexterm>ant</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
 </task>

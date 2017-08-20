@@ -5,7 +5,16 @@
 <topic id="reducing-processing-time" xml:lang="en-US">
    <title>Reducing processing time</title>
    <shortdesc>Several configuration changes can significantly reduce DITA-OT processing time.</shortdesc>
-
+   <prolog>
+      <metadata>
+         <keywords>
+            <indexterm>reducing-processing-time<indexterm>debug-attribute-generation</indexterm></indexterm>
+            <indexterm>reducing-processing-time<indexterm>fast-disk<indexterm>temporary-directory</indexterm></indexterm></indexterm>
+            <indexterm>reducing-processing-time<indexterm>jvm-instance</indexterm></indexterm>
+            <indexterm>reducing-processing-time:<indexterm>java</indexterm></indexterm>
+         </keywords>
+      </metadata>
+   </prolog>
    <body>
       <section>
          <title>Disable debug attribute generation</title>
